@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Avinash-o1
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ui designing
+- 👀 I’m interested in fullstack development 
+- 🌱 I’m well versed in javascript
+- 💞️ I’m looking to collaborate on MERN projects 
 - 📫 How to reach me avinashchandra1701@gmail.com
 
 <!---
